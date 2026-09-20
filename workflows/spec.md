@@ -1,0 +1,18 @@
+---
+description: Start spec-driven development — write a structured specification before writing code
+argument-hint: [feature name | problem description]
+---
+
+# /spec
+
+Invoke the `spec-driven-development` skill.
+
+Begin by understanding what needs to be built:
+1. The objective and target users
+2. Core features and acceptance criteria
+3. Tech stack preferences and constraints
+4. Known boundaries (what to always do, ask first about, and never do)
+
+Then generate a structured spec covering all core areas: objective, commands, project structure, code style, testing strategy, and boundaries.
+
+Save the specification as `SPEC.md` in the project root and confirm with the user before proceeding.
