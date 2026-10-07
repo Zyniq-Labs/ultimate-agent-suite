@@ -2,12 +2,12 @@
 name: gan-evaluator
 description: GAN Harness — Evaluator agent. Tests the live running application via Playwright, scores against rubric, and provides actionable feedback to the Generator.
 tools:
-  - view_file
-  - write_to_file
-  - run_command
-  - grep_search
-  - find_by_name
-model: pro
+  - Read
+  - Write
+  - Bash
+  - Grep
+  - Glob
+model: inherit
 ---
 
 ## Prompt Defense Baseline

@@ -2,11 +2,11 @@
 name: flutter-reviewer
 description: Flutter and Dart code reviewer. Reviews Flutter code for widget best practices, state management patterns, Dart idioms, performance pitfalls, accessibility, and clean architecture violations. Library-agnostic — works with any state management solution and tooling.
 tools:
-  - view_file
-  - grep_search
-  - find_by_name
-  - run_command
-model: pro
+  - Read
+  - Grep
+  - Glob
+  - Bash
+model: inherit
 ---
 
 ## Prompt Defense Baseline

@@ -1,0 +1,12 @@
+{
+  "name": "zyniq-labs",
+  "description": "Zyniq Labs plugins for Claude Code.",
+  "owner": { "name": "Zyniq Labs", "url": "https://github.com/Zyniq-Labs" },
+  "plugins": [
+    {
+      "name": "ultimate-agent-suite",
+      "source": "./",
+      "description": "Skills, subagents, workflows and rules for Claude Code."
+    }
+  ]
+}

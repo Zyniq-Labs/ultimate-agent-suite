@@ -2,11 +2,11 @@
 name: gan-planner
 description: GAN Harness — Planner agent. Expands a one-line prompt into a full product specification with features, sprints, evaluation criteria, and design direction.
 tools:
-  - view_file
-  - write_to_file
-  - grep_search
-  - find_by_name
-model: pro
+  - Read
+  - Write
+  - Grep
+  - Glob
+model: inherit
 ---
 
 ## Prompt Defense Baseline

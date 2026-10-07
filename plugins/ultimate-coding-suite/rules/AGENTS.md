@@ -19,7 +19,7 @@ This unified rule set enforces elite engineering discipline across all coding, U
 - **CI/CD**: Matrix testing, dependency caching, secrets scanning (`gitleaks`), vulnerability checks.
 
 ## 4. Context & Token Management
-- **Smart Slicing**: Never load 400+ line files whole. Use `grep_search` to find line numbers, then `view_file` targeted slices.
+- **Smart Slicing**: Never load 400+ line files whole. Use `Grep` to find line numbers, then `Read` targeted slices.
 - **Output Pruning**: Suppress build spinners and successful test output; surface actionable errors and stack traces.
 
 ## 5. Media & Generative AI

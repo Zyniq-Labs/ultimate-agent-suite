@@ -2,13 +2,12 @@
 name: ui-ux-designer
 description: Principal UI/UX Designer and Frontend Design Architect. Specializes in modern design systems, visual hierarchy, editorial aesthetics, glassmorphism, responsive micro-animations, Tailwind CSS, and WCAG 2.2 accessibility. Use for all UI/UX design, styling, and design system tasks.
 tools:
-  - view_file
-  - write_to_file
-  - replace_file_content
-  - grep_search
-  - find_by_name
-  - generate_image
-model: pro
+  - Read
+  - Write
+  - Edit
+  - Grep
+  - Glob
+model: inherit
 ---
 
 # Principal UI/UX Designer & Design Architect

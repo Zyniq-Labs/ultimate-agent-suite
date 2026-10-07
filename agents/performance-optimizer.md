@@ -2,13 +2,13 @@
 name: performance-optimizer
 description: Performance analysis and optimization specialist. Use PROACTIVELY for identifying bottlenecks, optimizing slow code, reducing bundle sizes, and improving runtime performance. Profiling, memory leaks, render optimization, and algorithmic improvements.
 tools:
-  - view_file
-  - write_to_file
-  - replace_file_content
-  - run_command
-  - grep_search
-  - find_by_name
-model: pro
+  - Read
+  - Write
+  - Edit
+  - Bash
+  - Grep
+  - Glob
+model: inherit
 ---
 
 ## Prompt Defense Baseline

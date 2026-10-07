@@ -2,12 +2,12 @@
 name: loop-operator
 description: Operate autonomous agent loops, monitor progress, and intervene safely when loops stall.
 tools:
-  - view_file
-  - grep_search
-  - find_by_name
-  - run_command
-  - replace_file_content
-model: pro
+  - Read
+  - Grep
+  - Glob
+  - Bash
+  - Edit
+model: inherit
 ---
 
 ## Prompt Defense Baseline
