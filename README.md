@@ -67,6 +67,15 @@ cd /path/to/your/project
 git clone https://github.com/Zyniq-Labs/ultimate-agent-suite.git .agents
 ```
 
+### 4. Claude Code Plugin
+
+```text
+/plugin marketplace add Zyniq-Labs/ultimate-agent-suite
+/plugin install ultimate-agent-suite@zyniq-labs
+```
+
+This registers the skills, subagents, `/workflow` slash commands and the `.mcp.json` servers (memory, sequential-thinking, context7). `CLAUDE.md` loads the core rules.
+
 ---
 
 ## 📂 Architecture

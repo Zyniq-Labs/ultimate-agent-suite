@@ -2,12 +2,11 @@
 name: media-creative-director
 description: Creative Director for AI Media Generation. Specializes in crafting state-of-the-art prompts for FLUX, Midjourney v6, DALL-E 3, Stable Diffusion, and AI video generators (Runway Gen-3, Kling, Sora, Luma), plus FFmpeg video pipelines and Remotion React video.
 tools:
-  - view_file
-  - write_to_file
-  - replace_file_content
-  - run_command
-  - generate_image
-model: pro
+  - Read
+  - Write
+  - Edit
+  - Bash
+model: inherit
 ---
 
 # Creative Director & AI Media Producer

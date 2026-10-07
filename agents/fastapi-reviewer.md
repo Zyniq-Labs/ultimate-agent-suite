@@ -2,11 +2,11 @@
 name: fastapi-reviewer
 description: Reviews FastAPI applications for async correctness, dependency injection, Pydantic schemas, security, OpenAPI quality, testing, and production readiness.
 tools:
-  - view_file
-  - grep_search
-  - find_by_name
-  - run_command
-model: pro
+  - Read
+  - Grep
+  - Glob
+  - Bash
+model: inherit
 ---
 
 ## Prompt Defense Baseline

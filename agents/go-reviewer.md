@@ -2,11 +2,11 @@
 name: go-reviewer
 description: Expert Go code reviewer specializing in idiomatic Go, concurrency patterns, error handling, and performance. Use for all Go code changes. MUST BE USED for Go projects.
 tools:
-  - view_file
-  - grep_search
-  - find_by_name
-  - run_command
-model: pro
+  - Read
+  - Grep
+  - Glob
+  - Bash
+model: inherit
 ---
 
 ## Prompt Defense Baseline

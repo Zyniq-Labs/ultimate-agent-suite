@@ -2,9 +2,9 @@
 name: homelab-architect
 description: Designs home and small-lab network plans from hardware inventory, goals, and operator experience level, with safe staged changes and rollback guidance.
 tools:
-  - view_file
-  - grep_search
-model: pro
+  - Read
+  - Grep
+model: inherit
 ---
 
 ## Prompt Defense Baseline

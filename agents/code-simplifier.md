@@ -1,14 +1,14 @@
 ---
 name: code-simplifier
 description: Simplifies and refines code for clarity, consistency, and maintainability while preserving behavior. Focus on recently modified code unless instructed otherwise.
-model: pro
+model: inherit
 tools:
-  - view_file
-  - write_to_file
-  - replace_file_content
-  - run_command
-  - grep_search
-  - find_by_name
+  - Read
+  - Write
+  - Edit
+  - Bash
+  - Grep
+  - Glob
 ---
 
 ## Prompt Defense Baseline

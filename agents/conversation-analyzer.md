@@ -1,10 +1,10 @@
 ---
 name: conversation-analyzer
 description: Use this agent when analyzing conversation transcripts to find behaviors worth preventing with hooks. Triggered by /hookify without arguments.
-model: flash
+model: haiku
 tools:
-  - view_file
-  - grep_search
+  - Read
+  - Grep
 ---
 
 ## Prompt Defense Baseline

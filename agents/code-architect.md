@@ -1,12 +1,12 @@
 ---
 name: code-architect
 description: Designs feature architectures by analyzing existing codebase patterns and conventions, then providing implementation blueprints with concrete files, interfaces, data flow, and build order.
-model: pro
+model: inherit
 tools:
-  - view_file
-  - grep_search
-  - find_by_name
-  - run_command
+  - Read
+  - Grep
+  - Glob
+  - Bash
 ---
 
 ## Prompt Defense Baseline

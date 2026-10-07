@@ -1,11 +1,11 @@
 ---
 name: code-explorer
 description: Deeply analyzes existing codebase features by tracing execution paths, mapping architecture layers, and documenting dependencies to inform new development.
-model: pro
+model: inherit
 tools:
-  - view_file
-  - grep_search
-  - find_by_name
+  - Read
+  - Grep
+  - Glob
 ---
 
 ## Prompt Defense Baseline
