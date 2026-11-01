@@ -1,7 +1,7 @@
 {
   "name": "ultimate-agent-suite",
-  "description": "388 skills, 76 subagents, 106 slash-command workflows and engineering rules for full-stack, DevOps, UI/UX and AI-media work.",
-  "version": "1.1.0",
+  "description": "367 skills, 76 subagents, 104 slash-command workflows and engineering rules for full-stack, DevOps, UI/UX and AI-media work.",
+  "version": "1.2.0",
   "author": { "name": "Zyniq Labs", "url": "https://github.com/Zyniq-Labs" },
   "homepage": "https://github.com/Zyniq-Labs/ultimate-agent-suite",
   "license": "MIT",
